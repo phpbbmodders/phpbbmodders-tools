@@ -3,4 +3,4 @@
 
 | Tools | Description |
 |-------|-------------|
-| [SMTP TOOLS](./smtp-disable/README.md) | Tool to disable SMTP |
+| [SMTP DISABLE](./smtp-disable/README.md) | Tool to disable SMTP |
